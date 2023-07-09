@@ -160,6 +160,8 @@ MonoBehaviour:
   - {fileID: 4856354748159267827, guid: 03b11d40a7ed1cd418f0348c11d2b851, type: 3}
   rows: 5
   columns: 11
+  speed: 1
+  _direction: {x: 1, y: 0, z: 0}
 --- !u!4 &319385774
 Transform:
   m_ObjectHideFlags: 0
